@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'aileronregular';
+  src: url('../fonts/Aileron-Regular-webfont.eot');
+  src:
+    url('../fonts/Aileron-Regular-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/Aileron-Regular-webfont.woff') format('woff'),
+    url('../fonts/Aileron-Regular-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'aileronbold';
+  src: url('../fonts/Aileron-Bold-webfont.eot');
+  src:
+    url('../fonts/Aileron-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Aileron-Bold-webfont.woff') format('woff'),
+    url('../fonts/Aileron-Bold-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'aileronlight';
+  src: url('../fonts/Aileron-LightItalic-webfont.eot');
+  src:
+    url('../fonts/Aileron-LightItalic-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/Aileron-LightItalic-webfont.woff') format('woff'),
+    url('../fonts/Aileron-LightItalic-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+button {
+  font-family: aileronbold;
+  font-size: x-large;
+  text-transform: uppercase;
+  font-style: italic;
+  background-color: rgb(0, 0, 0);
+  color: #d12917;
+  padding: 10px;
+  width: 100%;
+
+  border-radius: 7px;
+  outline-width: 0.5px;
+  outline-color: #d12917;
+  outline-style: solid;
+  border: none;
+  text-align: center;
+}
+
+button:hover {
+  outline-color: white;
+  color: white;
+}
+
+.buttonContainer {
+  display: grid;
+  place-items: center;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 700px) {
+  input {
+    font-family: aileronlight;
+    width: 95% !important;
+    font-size: large;
+    border-radius: 7px;
+    padding: 12px 12px;
+    border: none;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  input {
+    font-family: aileronlight;
+    width: 97% !important;
+    font-size: large;
+    border-radius: 7px;
+    padding: 12px 12px;
+    border: none;
+    margin-bottom: 30px;
+  }
+}
+@media screen and (min-width: 1000px) {
+  input {
+    font-family: aileronlight;
+    width: 97% !important;
+    font-size: large;
+    border-radius: 7px;
+    padding: 12px 12px;
+    border: none;
+    margin-bottom: 30px;
+  }
+}

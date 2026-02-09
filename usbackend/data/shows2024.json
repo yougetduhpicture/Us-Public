@@ -1,0 +1,523 @@
+[
+  {
+    "id": 202401,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": "DEC 6 2024",
+    "venue": "Trans Musicales Festival",
+    "location": "RENNES",
+    "country": "FRANCE",
+    "link": "https://www.setlist.fm/setlist/us/2024/les-transmusicales-rennes-france-b5f3582.html"
+  },
+  {
+    "id": 202402,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": "DEC 5 2024",
+    "venue": "De Casino",
+    "location": "SINT-NIKLAAS",
+    "country": "BELGIUM",
+    "link": "https://www.setlist.fm/setlist/us/2024/de-casino-sint-niklaas-belgium-135fe93d.html"
+  },
+  {
+    "id": 202403,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": "DEC 4 2024",
+    "venue": "De Helling",
+    "location": "UTRECHT",
+    "country": "NETHERLANDS",
+    "link": "https://www.setlist.fm/setlist/us/2024/de-helling-utrecht-netherlands-35fd9f3.html"
+  },
+  {
+    "id": 202404,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": "DEC 3 2024",
+    "venue": "Paard",
+    "location": "DEN HAAG",
+    "country": "NETHERLANDS",
+    "link": "https://www.setlist.fm/setlist/us/2024/paard-kleine-zaal-the-hague-netherlands-7b5fda84.html"
+  },
+  {
+    "id": 202405,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": "DEC 2 2024",
+    "venue": "Point Ephemere",
+    "location": "PARIS",
+    "country": "FRANCE",
+    "link": "https://www.setlist.fm/setlist/us/2024/point-ephemere-paris-france-1b5fed6c.html"
+  },
+  {
+    "id": 202406,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": "NOV 30 2024",
+    "venue": "Arts Club",
+    "location": "LIVERPOOL",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2024/arts-club-liverpool-england-235f8403.html"
+  },
+  {
+    "id": 202407,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": "NOV 28 2024",
+    "venue": "Patterns",
+    "location": "BRIGHTON",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2024/patterns-brighton-england-735fa68d.html"
+  },
+  {
+    "id": 202408,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": "NOV 27 2024",
+    "venue": "The Garage",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2024/the-garage-london-england-635faefb.html"
+  },
+  {
+    "id": 202409,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": "NOV 26 2024",
+    "venue": "Hare and The Hounds",
+    "location": "BIRMINGHAM",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2024/hare-and-hounds-birmingham-england-7b5fbecc.html"
+  },
+  {
+    "id": 202410,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": "NOV 24 2024",
+    "venue": "The Wardrobe",
+    "location": "LEEDS",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2024/the-wardrobe-leeds-england-35fa177.html"
+  },
+  {
+    "id": 202411,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": "NOV 23 2024",
+    "venue": "The Leadmill",
+    "location": "SHEFFIELD",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2024/the-leadmill-sheffield-england-335e5429.html"
+  },
+  {
+    "id": 202412,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": " NOV 22 2024",
+    "venue": "Think Tank",
+    "location": "NEWCASTLE",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2024/think-tank-newcastle-upon-tyne-england-2b5e68a6.html"
+  },
+  {
+    "id": 202413,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": " NOV 20 2024",
+    "venue": "The Garage",
+    "location": "GLASGOW",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2024/the-garage-glasgow-scotland-2b5e688e.html"
+  },
+  {
+    "id": 202414,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": "NOV 1 2024",
+    "venue": "Justines",
+    "location": "MARGATE",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202415,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": "OCT 31 2024",
+    "venue": "The Roundhouse",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2024/roundhouse-london-england-2b5124f2.html"
+  },
+  {
+    "id": 202416,
+    "tour": "THE STRIKE - DON`T HESITATE: VOL. 2 TOUR",
+    "date": "OCT 30 2024",
+    "venue": "The Old Dispensary",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202417,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "OCT 4 2024",
+    "venue": "Private Concert",
+    "location": "TAMPERE",
+    "country": "FINLAND"
+  },
+  {
+    "id": 202418,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "OCT 2 2024",
+    "venue": "Lost in Music",
+    "location": "TAMPERE",
+    "country": "FINLAND",
+    "link": "https://www.setlist.fm/setlist/us/2024/g-livelab-tampere-finland-2b52c48a.html"
+  },
+  {
+    "id": 202419,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "AUG 29 2024",
+    "venue": "St. Moritz Club",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202420,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "AUG 29 2024",
+    "venue": "Barnstomper Festival",
+    "location": "DORSET",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202421,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "AUG 28 2024",
+    "venue": "Le Pub",
+    "location": "NEWPORT",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202422,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "AUG 26 2024",
+    "venue": "Notting Hill Carnival (Gaz's Rockin Blues)",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202423,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "AUG 24 2024",
+    "venue": "Golden Lion",
+    "location": "BRISTOL",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202424,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "AUG 23 2024",
+    "venue": "Shambala Festival",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202425,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "AUG 18 2024",
+    "venue": "Smoke and Fire Festival",
+    "location": "MALDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202426,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "AUG 12 2024",
+    "venue": "Sziget",
+    "location": "BUDAPEST",
+    "country": "HUNGARY"
+  },
+  {
+    "id": 202427,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "AUG 12 2024",
+    "venue": "Sziget",
+    "location": "BUDAPEST",
+    "country": "HUNGARY"
+  },
+  {
+    "id": 202428,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "AUG 2 2024",
+    "venue": "Endorset Festival",
+    "location": "DORSET",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202429,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUL 30 2024",
+    "venue": "WWWW X",
+    "location": "TOKYO",
+    "country": "JAPAN",
+    "link": "https://www.setlist.fm/setlist/us/2024/shibuya-www-x-tokyo-japan-135581e9.html"
+  },
+  {
+    "id": 202430,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUL 28 2024",
+    "venue": "Fuji Rock (RED MARQUEE)",
+    "location": "NAEBA",
+    "country": "JAPAN"
+  },
+  {
+    "id": 202431,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUL 27 2024",
+    "venue": "Fuji Rock (DON'S CAFE)",
+    "location": "NAEBA",
+    "country": "JAPAN"
+  },
+  {
+    "id": 202432,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUL 27 2024",
+    "venue": "Fuji Rock (GAN-BAN SQUARE STAGE)",
+    "location": "NAEBA",
+    "country": "JAPAN"
+  },
+  {
+    "id": 202433,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUL 26 2024",
+    "venue": "Fuji Rock (CRYSTAL PALACE TENT)",
+    "location": "NAEBA",
+    "country": "JAPAN"
+  },
+  {
+    "id": 202434,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUL 26 2024",
+    "venue": "Fuji Rock (GREEN STAGE)",
+    "location": "NAEBA",
+    "country": "JAPAN"
+  },
+  {
+    "id": 202435,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUL 25 2024",
+    "venue": "Fuji Rock Pre-Party (RED MARQUEE)",
+    "location": "NAEBA",
+    "country": "JAPAN"
+  },
+  {
+    "id": 202436,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUL 20 2024",
+    "venue": "Smoke and Fire Festival",
+    "location": "ASCOT",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202437,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUL 18 2024",
+    "venue": "The Prince Albert",
+    "location": "BRIGHTON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202438,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUL 13 2024",
+    "venue": "Big Pop Festival",
+    "location": "OOSTERWOLDE",
+    "country": "NETHERLANDS"
+  },
+  {
+    "id": 202439,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUL 12 2024",
+    "venue": "Mitäs Mitäs Mitäs",
+    "location": "URJALA",
+    "country": "FINLAND"
+  },
+  {
+    "id": 202440,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUN 30 2024",
+    "venue": "Glastonbury Festival (The Open Arms + Rocket Lounge)",
+    "location": "SOMERSET",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202441,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUN 29 2024",
+    "venue": "Glastonbury Festival (PIER + Rocket Lounge)",
+    "location": "SOMERSET",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202442,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUN 28 2024",
+    "venue": "Glastonbury Festival (Strummerville)",
+    "location": "SOMERSET",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202443,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUN 27 2024",
+    "venue": "Glastonbury Festival (Wishing Well + Rocket Lounge)",
+    "location": "SOMERSET",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202444,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUN 22 2024",
+    "venue": "Friends of Friends Festival",
+    "location": "WINCHESTER",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202445,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUN 21 2024",
+    "venue": "Golden Lion",
+    "location": "BRISTOL",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202446,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JUN 15 2024",
+    "venue": "Semifinal",
+    "location": "HELSINKI",
+    "country": "FINLAND"
+  },
+  {
+    "id": 202447,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "MAY 21 2024",
+    "venue": "District",
+    "location": "LIVERPOOL",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202448,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "MAY 17 2024",
+    "venue": "The Old Dispensary Camberwell",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202449,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "MAY 16 2024",
+    "venue": "St. Moritz Club",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202450,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "MAY 16 2024",
+    "venue": "Dash The Henge",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202451,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "MAY 15 2024",
+    "venue": "The Underworld Camden",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202452,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "MAY 3 2024",
+    "venue": "Helsinki Psych Fest",
+    "location": "HELSINKI",
+    "country": "FINLAND"
+  },
+  {
+    "id": 202453,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "APR 11 2024",
+    "venue": "Siltanen",
+    "location": "HELSINKI",
+    "country": "FINLAND"
+  },
+  {
+    "id": 202454,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "FEB 17 2024",
+    "venue": "The Pilton Stage",
+    "location": "Pilton",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202455,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "FEB 16 2024",
+    "venue": "Golden Lion",
+    "location": "BRISTOL",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202456,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "FEB 15 2024",
+    "venue": "St. Moritz Club",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202457,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "FEB 15 2024",
+    "venue": "Dash The Henge Store",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202458,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "FEB 14 2024",
+    "venue": "The Prince Albert",
+    "location": "STROUD",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202459,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "FEB 10 2024",
+    "venue": "Private concert",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202460,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "FEB 9 2024",
+    "venue": "the Prince Albert",
+    "location": "BRIGHTON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202461,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JAN 27 2024",
+    "venue": "Kuudes linja",
+    "location": "HELSINKI",
+    "country": "FINLAND"
+  },
+  {
+    "id": 202462,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JAN 18 2024",
+    "venue": "Eurosonic",
+    "location": "GRONINGEN",
+    "country": "NETHERLANDS",
+    "link": "https://www.setlist.fm/setlist/us/2024/coffee-company-groningen-netherlands-4bacb7ca.html"
+  },
+  {
+    "id": 202463,
+    "tour": "THE STRIKE - DON`T HESITATE TOUR",
+    "date": "JAN 17 2024",
+    "venue": "Eurosonic",
+    "location": "GRONINGEN",
+    "country": "NETHERLANDS",
+    "link": "https://www.setlist.fm/setlist/us/2024/huize-maas-groningen-netherlands-6baca6de.html"
+  }
+]

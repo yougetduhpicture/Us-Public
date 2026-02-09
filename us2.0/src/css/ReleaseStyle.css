@@ -1,0 +1,41 @@
+.releaseContainer {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.releaseColumnL {
+  flex: 1;
+  border-radius: 1%;
+  padding-bottom: 30px;
+}
+.releaseColumnR {
+  flex: 1;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  border-radius: 3%;
+}
+.releaseColumnR button {
+  margin-bottom: 10px;
+}
+.coverPhoto {
+  max-width: 450px;
+  border-radius: 2%;
+}
+.releaseHeading {
+  color: #ffffff;
+  font-family: 'aileronbold';
+  font-size: 150%;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 800px) {
+  .releaseContainer {
+    flex-direction: column;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    gap: 0px;
+  }
+}

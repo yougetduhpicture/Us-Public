@@ -1,0 +1,43 @@
+.iconContainer {
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.iconLink {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.streamingIcon {
+  color: white;
+  transition: color 0.3s ease;
+  display: block;
+  margin: auto;
+  width: var(--icon-size, 40px); /* Use CSS variable for consistent sizing */
+  height: var(--icon-size, 40px); /* Use CSS variable for consistent sizing */
+}
+
+.streamingIcon:hover {
+  color: #d12917;
+}
+
+.streamingIcon path {
+  fill: currentColor;
+}
+
+.iconLink svg {
+  display: block;
+  margin: auto;
+}
+
+.header {
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 50px;
+  padding: 10px;
+  max-width: 1000px;
+}

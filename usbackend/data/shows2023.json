@@ -1,0 +1,564 @@
+[
+  {
+    "id": 202301,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "DEC 30 2023",
+    "venue": "Private Concert",
+    "location": "Helsinki",
+    "country": "FINLAND"
+  },
+  {
+    "id": 202302,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "DEC 10 2023",
+    "venue": "Concorde 2",
+    "location": "BRIGHTON",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2023/concorde-2-brighton-england-7bae7e80.html"
+  },
+  {
+    "id": 202303,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "DEC 9 2023",
+    "venue": "Islington Academy",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2023/o2-academy-islington-london-england-1bae35c8.html"
+  },
+  {
+    "id": 202304,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "DEC 8 2023",
+    "venue": "O2 Academy Liverpool",
+    "location": "Liverpool",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2023/o2-academy-islington-london-england-6bae7e8a.html"
+  },
+  {
+    "id": 202305,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "DEC 7 2023",
+    "venue": "Islington Academy",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.youtube.com/watch?v=iorwk_22ync&amp;t=683s"
+  },
+  {
+    "id": 202306,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "DEC 6 2023",
+    "venue": "Academy 2",
+    "location": "BIRMINGHAM",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2023/o2-academy-2-birmingham-england-43ae33ff.html"
+  },
+  {
+    "id": 202307,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "DEC 5 2023",
+    "venue": "O2 ACADEMY",
+    "location": "BRISTOL",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2023/o2-academy-bristol-bristol-england-73aec69d.html"
+  },
+  {
+    "id": 202308,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "DEC 4 2023",
+    "venue": "The Academy",
+    "location": "BOURNEMOUTH",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202309,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "DEC 2 2023",
+    "venue": "The Academy",
+    "location": "DUBLIN",
+    "country": "IRELAND"
+  },
+  {
+    "id": 202310,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "DEC 1 2023",
+    "venue": "Limelight",
+    "location": "BELFAST",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202311,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "NOV 30 2023",
+    "venue": "Liquid Room",
+    "location": "EDINBURGH",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202312,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "NOV 29 2023",
+    "venue": "New Century Hall",
+    "location": "MANCHESTER",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202313,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "NOV 28 2023",
+    "venue": "The Crescent Community Venue",
+    "location": "YORK",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202314,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "NOV 27 2023",
+    "venue": "Cottingham Civic Hall",
+    "location": "COTTINGHAM",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202315,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "OCT 21 2023",
+    "venue": "The Farmers Arms",
+    "location": "PENZANCE",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202316,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "OCT 18 2023",
+    "venue": "The 100-Club",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202317,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "OCT 14 2023",
+    "venue": "Live at Leeds In The City",
+    "location": "LEEDS",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2023/belgrave-music-hall-leeds-england-33a0889d.html"
+  },
+  {
+    "id": 202318,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "OCT 13 2023",
+    "venue": "Justines",
+    "location": "MARGATE",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202319,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "SEP 1 2023",
+    "venue": "The Prince Albert",
+    "location": "BRIGHTON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202320,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "AUG 27 2023",
+    "venue": "The Notting Hill Carnival",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202321,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "AUG 26 2023",
+    "venue": "Smoke and Fire Festival",
+    "location": "MALDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202322,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "AUG 25 2023",
+    "venue": "Hidden Lake Festival",
+    "location": "CORHAMPTON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202323,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "AUG 24 2023",
+    "venue": "The Wasteland at The Albion Rooms",
+    "location": "MARGATE",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202324,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "AUG 23 2023",
+    "venue": "The Lantern Inn",
+    "location": "MARTIN MILL",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202325,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "AUG 19 2023",
+    "venue": "Manor Farm Festival",
+    "location": "BEDFORDSHIRE",
+    "country": "FINLAND"
+  },
+  {
+    "id": 202326,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "AUG 12 2023",
+    "venue": "Private Concert",
+    "location": "HELSINKI",
+    "country": "FINLAND"
+  },
+  {
+    "id": 202327,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "AUG 5 2023",
+    "venue": "Private Concert",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2022/the-english-bookshop-stockholm-sweden-13b289ad.html"
+  },
+  {
+    "id": 202328,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "AUG 5 2023",
+    "venue": "Stroud Beer Festival",
+    "location": "STROUD",
+    "country": "UNITED KINGDOM",
+    "link": "https://www.setlist.fm/setlist/us/2022/mascot-bar-and-live-stage-helsinki-finland-43b2afbf.html"
+  },
+  {
+    "id": 202329,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "AUG 5 2023",
+    "venue": "Smoke and Fire Festival",
+    "location": "ASCOT",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202330,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "AUG 3 2023",
+    "venue": "St. Moritz Club",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM",
+    "link": "https://tapahtumat.jarvenpaa.fi/en-FI/page/62b3001169c6a61f7e955b1f"
+  },
+  {
+    "id": 202331,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUL 29 2023",
+    "venue": "Jytäkesä Go-Go",
+    "location": "HELSINKI",
+    "country": "FINLAND"
+  },
+  {
+    "id": 202332,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUL 21 2023",
+    "venue": "Upton Blues Festival",
+    "location": "UPTON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202333,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUL 20 2023",
+    "venue": "Upton Blues Festival",
+    "location": "UPTON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202334,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 25 2023",
+    "venue": "Glastonbury 2023",
+    "location": "SOMERSET",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202335,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 25 2023",
+    "venue": "Glastonbury 2023",
+    "location": "SOMERSET",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202336,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 25 2023",
+    "venue": "Glastonbury 2023",
+    "location": "SOMERSET",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202337,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 24 2023",
+    "venue": "Glastonbury 2023",
+    "location": "SOMERSET",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202338,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 23 2023",
+    "venue": "Glastonbury 2023",
+    "location": "SOMERSET",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202339,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 23 2023",
+    "venue": "Glastonbury 2023",
+    "location": "HELSINKI",
+    "country": "FINLAND"
+  },
+  {
+    "id": 202340,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 22 2023",
+    "venue": "Glastonbury 2023",
+    "location": "SOMERSET",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202341,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 22 2023",
+    "venue": "Glastonbury 2023",
+    "location": "SOMERSET",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202342,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 21 2023",
+    "venue": "Glastonbury 2023",
+    "location": "SOMERSET",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202343,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 18 2023",
+    "venue": "The Cross Keys Inn",
+    "location": "LYDFORD ON FOSSE",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202344,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 17 2023",
+    "venue": "The Nowhere Inn",
+    "location": "PLYMOUTH",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202345,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 16 2023",
+    "venue": "The Golden Lion",
+    "location": "BRISTOL",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202346,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 15 2023",
+    "venue": "The Farmers Arms",
+    "location": "PENZANCE",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202348,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 10 2023",
+    "venue": "The Lewes Road Inn",
+    "location": "BRIGHTON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202349,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 3 2023",
+    "venue": "The Lexington",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202350,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JUN 1 2023",
+    "venue": "Red Rooster Festival",
+    "location": "THETFORD",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202351,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "MAY 30 2023",
+    "venue": "The Wasteland at The Albion Rooms",
+    "location": "MARGATE",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202352,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "MAY 29 2023",
+    "venue": "The Lantern Inn",
+    "location": "MARTIN MILL",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202353,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "MAY 27 2023",
+    "venue": "The World´s End",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202354,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "MAY 25 2023",
+    "venue": "ST. Moritz Club",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202355,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "MAY 21 2023",
+    "venue": "The Portland Arms",
+    "location": "CAMBRIDGE",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202356,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "MAY 20 2023",
+    "venue": "Le Pub",
+    "location": "NEWPORT",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202357,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "MAY 19 2023",
+    "venue": "The Golden Lion",
+    "location": "BRISTOL",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202358,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "APR 14 2023",
+    "venue": "Norwich Social Club",
+    "location": "NORWICH",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202359,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "APR 13 2023",
+    "venue": "Lafayette",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202360,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "APR 11 2023",
+    "venue": "Clwb lfor Bach",
+    "location": "CARDIFF",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202361,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "APR 9 2023",
+    "venue": "The Prince Albert",
+    "location": "STROUD",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202362,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "APR 8 2023",
+    "venue": "Night Owl",
+    "location": "Birmingham",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202363,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "APR 7 2023",
+    "venue": "Lion's Den",
+    "location": "MANCHESTER",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202364,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "APR 6 2023",
+    "venue": "NE Volume Music Bar",
+    "location": "STOCKTON ON TEES",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202365,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "APR 1 2023",
+    "venue": "Shackle Well Arms",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202366,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "MAR 21 2023",
+    "venue": "Kalliosali",
+    "location": "HELSINKI",
+    "country": "FINLAND"
+  },
+  {
+    "id": 202367,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "MAR 4 2023",
+    "venue": "The Margate School",
+    "location": "MARGATE",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202368,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "MAR 2 2023",
+    "venue": "The Wasteland at The Albion Rooms",
+    "location": "MARGATE",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "id": 202369,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "FEB 16 2023",
+    "venue": "Tiivistämö",
+    "location": "HELSINKI",
+    "country": "FINLAND"
+  },
+  {
+    "id": 202370,
+    "tour": "THE STRIKE - DON'T HESITATE TOUR",
+    "date": "JAN 5 2023",
+    "venue": "St. Moritz Club",
+    "location": "LONDON",
+    "country": "UNITED KINGDOM"
+  }
+]

@@ -1,0 +1,9 @@
+.icon-container {
+  transition: transform 0.3s ease; /* Optional: Adds a smooth transition effect */
+}
+
+@media (max-width: 550px) {
+  .icon-container {
+    transform: scale(0.5); /* Halves the size of the icons */
+  }
+}
