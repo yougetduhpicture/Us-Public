@@ -2,7 +2,7 @@
 
 The official website for **Us**. Built as a full-stack web application using the MERN stack. featuring upcoming and past show listings, music releases, music videos, newsletter signup, and more.
 
-**Live site:** [usbandofficial.com](https://usbandofficial.com/)
+**Live site:** [usbandofficial.onrender.com](https://usbandofficial.onrender.com/)
 
 ---
 
@@ -129,7 +129,7 @@ The frontend dev server will run on `http://localhost:5173` by default, and the 
 
 ## Build & Deployment
 
-The project is deployed on [Render](https://render.com/) and served from the backend under the custom domain [usbandofficial.com](https://usbandofficial.com/).
+The project is deployed on [Render](https://render.com/) and was served from the backend under the custom domain.
 
 The frontend is built into the backend's `build/` directory, and the Express server serves it as static files.
 
