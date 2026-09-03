@@ -43,9 +43,9 @@ const UpcomingShow = ({ show }) => {
 
   const formattedDate = formatDate(show.datetime)
 
-  const countryCode = countryCodes[show.venue.country.toUpperCase()]
+  const countryCode = countryCodes[show.venue.country?.toUpperCase()]
 
-  if (show.offers[0].url)
+  if (show.offers?.[0]?.url)
     return (
       <div className='event-container'>
         <a href={show.offers[0].url} target='_blank' rel='noopener noreferrer'>

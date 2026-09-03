@@ -19,7 +19,7 @@ import './css/ShowTable.css'
 const App = () => {
   const [pastShows, setPastShows] = useState([])
 
-  const backendurl = 'https://usbandofficial.com/api/shows'
+  const backendurl = import.meta.env.VITE_BACKEND_URL
 
   useEffect(() => {
     axios.get(backendurl).then((response) => {
